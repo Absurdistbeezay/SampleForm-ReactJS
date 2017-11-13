@@ -1,0 +1,31 @@
+
+
+.head {
+  text-align: center;
+  margin-bottom: 30px;
+  font-weight: bold;
+  
+}
+
+.form{
+  width: 50%;
+  margin: auto;
+  border: solid #26264b 2px;
+  padding: 20px;
+  background: #00d8ff; 
+}
+.button{
+  padding: 4px 6px 4px 6px;
+  background: #2279ac;
+  color: #fff;
+}
+form input{
+  width: 50%;
+}
+form textarea{
+  width: 90%;
+}
+form label{
+  margin-right: 10px;
+  
+}
